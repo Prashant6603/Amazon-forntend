@@ -1,4 +1,4 @@
 # Amazon-forntend
 This is my first Git Repository.
 <br>
-Author - Prashant Rajpal
+Author - Prashant Rajpal(42)
